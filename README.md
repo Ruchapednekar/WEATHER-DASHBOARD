@@ -12,6 +12,10 @@
 
 *Mentor* : Neela Kumar
 
+OUTPUT
+
+![Image](https://github.com/user-attachments/assets/1e2423ae-e6d0-4913-a855-c4c9c350f76c)
+
 The Weather Dashboard App is a web-based application developed using React.js that enables users to view real-time weather information for any city they search. It connects to the OpenWeatherMap API to fetch weather details such as temperature, humidity, wind speed, and overall weather conditions. The user-friendly interface allows individuals to enter a city name and instantly receive the current weather status displayed in a structured and visually clear format.
 
 The development of this project was carried out in Visual Studio Code, which served as the primary code editor. Visual Studio Code is a powerful and versatile development environment that supports multiple programming languages and frameworks, including JavaScript and React. It provided useful features such as an integrated terminal, syntax highlighting, extension support, and Git version control, all of which contributed to efficient development and easier debugging throughout the project.
